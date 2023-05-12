@@ -1,0 +1,9 @@
+# Full paths of train and val datasets
+train: /home/nspapilon/Desktop/tracking/train/dataset/train/images
+val: /home/nspapilon/Desktop/tracking/train/dataset/val/images
+
+# Number of class
+nc: 1
+
+# Class names
+names: ['military aircraft']
