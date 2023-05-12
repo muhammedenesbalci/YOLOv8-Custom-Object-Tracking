@@ -7,23 +7,23 @@ Customized tracking on videos and images.
 **Results**  
 - Customized tracking of a video.
 
-![alt-text]()
-![alt-text]()  
+![alt-text](https://github.com/muhammedenesbalci/YOLOv8-Custom-Object-Tracking/blob/main/test/datas/test_video_result_customized_gif.gif?raw=true)
+![alt-text](https://github.com/muhammedenesbalci/YOLOv8-Custom-Object-Tracking/blob/main/test/datas/test_video_result_line_customized_gif.gif?raw=true)  
 
 
 - Customized tracking of an image.
 
-![alt-text]()  
+![alt-text](https://github.com/muhammedenesbalci/YOLOv8-Custom-Object-Tracking/blob/main/test/datas/test_img_result_customized.jpg?raw=true)  
   
 
 - Automatic tracking of a video.
 
-![alt-text]()
+![alt-text](https://github.com/muhammedenesbalci/YOLOv8-Custom-Object-Tracking/blob/main/test/datas/test_video_result_automatic_gif.gif?raw=true)
 
 
 - Automatic tracking of an image.
 
-![alt-text]()
+![alt-text](https://github.com/muhammedenesbalci/YOLOv8-Custom-Object-Tracking/blob/main/test/datas/test_img_result_automatic.jpg?raw=true)
 
 
 

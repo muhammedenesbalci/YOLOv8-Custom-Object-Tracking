@@ -255,15 +255,12 @@ def customized_tracking_line_video(video_pth):
 
 img_pth = "../datas/test_img.jpg"
 
-# automatic_tracking_img(img_pth)
-# customized_tracking_img(img_pth)
-#
-# video_pth = "../datas/test_video.mp4"
-#
-# automatic_tracking_video(video_pth)
-# customized_tracking_video(video_pth)
-# customized_tracking_line_video(video_pth)
+automatic_tracking_img(img_pth)
+customized_tracking_img(img_pth)
 
-img = cv2.imread("/home/nspapilon/Desktop/tracking/test/datas/test_img_result_customized.jpg")
-cv2.imwrite("/home/nspapilon/Desktop/tracking/test/datas/test_img_result_customized.jpg", cv2.resize(img, (600, 338)))
-7
+video_pth = "../datas/test_video.mp4"
+
+automatic_tracking_video(video_pth)
+customized_tracking_video(video_pth)
+customized_tracking_line_video(video_pth)
+
